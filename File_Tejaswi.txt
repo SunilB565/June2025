@@ -1,0 +1,1 @@
+Git is a distributed version control system that allows developers to work on parallel branches, track changes, collaborate using pull requests.
